@@ -22,7 +22,7 @@ The objective of this project is to demonstrate end-to-end data analysis skills,
 
 #### Data Source
 
-This project uses the publicly available Toronto Airbnb dataset (15 June, 2026) from Inside Airbnb.
+This project uses the publicly available Toronto Airbnb dataset (15 June, 2026) from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
 
 Datasets used:
 - `reviews.csv`
