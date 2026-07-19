@@ -12,6 +12,13 @@ The objective of this project is to demonstrate end-to-end data analysis skills,
 
 ---
 
+#### Interactive Dashboard
+
+The interactive Tableau dashboard can be accessed here:
+🔗 [Toronto Airbnb Market Analysis Dashboard - Tableau Public](https://public.tableau.com/app/profile/gabrielle.du1760/viz/TorontoAirbnbMarketAnalysis2026_17844229505510/Dashboard1?publish=yes)
+
+---
+
 #### Tools & Technologies
 
 - Tableau Public
@@ -65,7 +72,7 @@ A price distribution chart (histogram) was created to examine how listings were 
 
 This data-driven approach resulted in more balanced visualizations and improved interpretability of the pricing analysis.
 
-**price category:**
+**Price Category:**
 - Budget: $1 - $99
 - Mid-range: $101 - $499
 - Luxury: $500 and above
